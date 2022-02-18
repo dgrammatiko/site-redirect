@@ -1,0 +1,15 @@
+# Redirect with a 301
+/                                       https://dgrammatiko.dev/                                        301
+/blog/solving-joomla-s-ux-problems/     https://dgrammatiko.online/blog/solving-joomla-s-ux-problems/   301
+/blog/no-more-cookies-please/           https://dgrammatiko.online/blog/no-more-cookies-please/         301
+/blog/the-hidden-cost-of-frontend/      https://dgrammatiko.online/blog/the-hidden-cost-of-frontend/    301
+/blog/fight-the-bloatwares/             https://dgrammatiko.online/blog/fight-the-bloatwares/           301
+/blog/11ty-to-codepen-shortcode/        https://dgrammatiko.online/blog/11ty-to-codepen-shortcode/      301
+/tags/                                  https://dgrammatiko.online/tags/                                301
+/tags/1/                                https://dgrammatiko.online/tags/1/                              301
+/tags/3/                                https://dgrammatiko.online/tags/3/                              301
+/blog/                                  https://dgrammatiko.online/blog/                                301
+/about/                                 https://dgrammatiko.online/about/                               301
+/code/                                  https://dgrammatiko.online/code/                                301
+/talks/                                 https://dgrammatiko.online/talks/                               301
+/talks/london-jug-december-2021/        https://dgrammatiko.online/talks/london-jug-december-2021/      301
